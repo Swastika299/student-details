@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "name": "Swastika Chapagain",
+      "email": "swastikachapagain10@gmail.com",
+      "phone": "9805837099",
+      "DOB": "1999-12-20",
+      "address": "Dhungedhara",
+      "active": true
+    },
+    {
+      "name": "Anisha Khadka",
+      "email": "anishakhadka@gmail.com",
+      "phone": "9806723415",
+      "DOB": "2000-12-20",
+      "address": "Thulobharayang",
+      "active": true
+    },
+    {
+      "name": "Garima Nepal",
+      "email": "garima@gmail.com",
+      "phone": "980567421",
+      "DOB": "2001-01-20",
+      "address": "Thulobharayang",
+      "active": false
+    }
+  ]
+}
